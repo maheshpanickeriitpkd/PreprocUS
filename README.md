@@ -7,6 +7,7 @@ A repository for Pre-processing of ultrasound images through rectilinear convers
 - Store the data in the 'Data' folder (Sample images are already provided for usage).
 - Run 'python lusPreProcess.py'
 - Results will be created in 'Results' (A new folder will be created if not already exists)
+- Parameters can be changed using the command line arguments or updating the same in lusPreProcess.py
 
 ##### Code Available under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) (see https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
