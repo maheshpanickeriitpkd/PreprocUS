@@ -1,0 +1,1 @@
+Download the model from https://drive.google.com/file/d/1_Umu_-OBtdnCq_kOxbJ0GGEAiAttcl1V/view?usp=sharing and place it in this folder.
